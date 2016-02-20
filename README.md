@@ -1,4 +1,4 @@
 # hello-world
 Getting started
 
-Jacqueline here, I have dabblein in java coding and basic wed development.
+Jacqueline here, I have dabbled in in java coding and basic web development.
